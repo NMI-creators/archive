@@ -68,19 +68,18 @@
 </head>
 <body>
 
-  <h1>ここに物語タイトルを入れる</h1>
+  <h1>凱友伝</h1>
 
   <!-- 各章 -->
-  <button class="accordion">ここに章タイトルを入れる</button>
+  <button class="accordion">二．五章(二次創作)</button>
   <div class="panel">
-
     <!-- 繰り返しパート：動画1つごと -->
-    <a class="video-button" href="ここにVimeoのURLを入れる" target="_blank">
-      <img src="ここにサムネイル画像のURLを入れる" alt="サムネイル">
+    <a class="video-button" href="https://vimeo.com/1074971168" target="_blank">
+      <img src="IMG_8375.jpeg" alt="サムネイル">
       <div class="video-info">
-        <div>ここに話数やサブタイトルを入れる</div>
+        <div>一話</div>
         <div class="password-box">
-          <span class="password-text">ここにパスワードを入れる</span>
+          <span class="password-text"＞GYD_2.5_1</span>
           <button class="copy-btn" onclick="copyPassword(this)">コピー</button>
         </div>
       </div>
