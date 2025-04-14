@@ -66,46 +66,50 @@
 
   <!-- ここから物語ブロック -->
   <section>
-    <h2>凱友伝</h2>
-    <!-- 章アコーディオン -->
-    <details class="accordion">
-      <summary>第1章</summary＞
-      <!-- 動画リンクブロック -->
-      <div class="video-link">
-        <a href="動画ページへのリンク" target="_blank">
-          <img src="サムネイル画像のURL" alt="サムネイル">
-        </a>
-        <div class="video-text">
-          <p>ここに話数タイトル</p>
-          <div class="password-block">
-            <span class="password">ここにパスワード</span>
-            <button class="copy-btn" onclick="copyPassword('ここにパスワード')">コピー</button>
-          </div>
+    <!-- 物語: 凱友伝 -->
+    <section>
+      <h2>凱友伝</h2>
+  <details>
+    <summary>第1章</summary>
+    <!-- 第1章の内容 -->
+    <div class="video-link">
+      <a href="動画ページへのリンク" target="_blank">
+        <img src="サムネイル画像のURL" alt="サムネイル">
+      </a>
+      <div class="video-text">
+        <p>ここに話数タイトル</p>
+        <div class="password-block">
+          <span class="password">ここにパスワード</span>
+          <button class="copy-btn" onclick="copyPassword('ここにパスワード')">コピー</button>
         </div>
       </div>
-      <!-- ↑これを話数ごとに繰り返す -->
-    </details>
-    <!-- ↑章アコーディオンここまで -->
-  </section>
-  <!-- ↑物語ブロックここまで -->
-  <!-- 別の物語 -->
-  <section>
-    <h2>エストリア叙事詩</h2>
-    <details class="accordion">
-      <summary>第1章</summary>
-      <div class="video-link">
-        <a href="動画ページへのリンク" target="_blank">
-          <img src="サムネイル画像のURL" alt="サムネイル">
-        </a>
-        <div class="video-text">
-          <p>ここに話数タイトル</p>
-          <div class="password-block">
-            <span class="password">ここにパスワード</span>
-            <button class="copy-btn" onclick="copyPassword('ここにパスワード')">コピー</button>
-          </div>
+    </div>
+    <!-- 他の話数も同様に追加 -->
+  </details>
+</section>
+
+<!-- 物語: エストリア叙事詩 -->
+<section>
+  <h2>エストリア叙事詩</h2>
+  <details>
+    <summary>第1章</summary>
+    <!-- 第1章の内容 -->
+    <div class="video-link">
+      <a href="動画ページへのリンク" target="_blank">
+        <img src="サムネイル画像のURL" alt="サムネイル">
+      </a>
+      <div class="video-text">
+        <p>ここに話数タイトル</p>
+        <div class="password-block">
+          <span class="password">ここにパスワード</span>
+          <button class="copy-btn" onclick="copyPassword('ここにパスワード')">コピー</button>
         </div>
       </div>
-    </details>
+    </div>
+    <!-- 他の話数も同様に追加 -->
+  </details>
+</section>
+
   </section>
 </body>
 </html>
