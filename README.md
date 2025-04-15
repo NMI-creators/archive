@@ -79,7 +79,7 @@
       <div class="video-text">
         <p>Ⅰ話</p>
         <div class="password-block">
-          <span class="password">ここにパスワード</span>
+          <span class="password">GYD_2_1</span>
           <button class="copy-btn" onclick="copyPassword('GYD_2_1')">コピー</button>
         </div>
       </div>
@@ -93,7 +93,7 @@
       <div class="video-text">
         <p>Ⅱ話</p>
         <div class="password-block">
-          <span class="password">ここにパスワード</span>
+          <span class="password">GYD_2_2</span>
           <button class="copy-btn" onclick="copyPassword('GYD_2_2')">コピー</button>
         </div>
       </div>
@@ -107,7 +107,7 @@
       <div class="video-text">
         <p>Ⅲ話</p>
         <div class="password-block">
-          <span class="password">ここにパスワード</span>
+          <span class="password">GYD_2_3</span>
           <button class="copy-btn" onclick="copyPassword('GYD_2_3')">コピー</button>
         </div>
       </div>
@@ -121,7 +121,7 @@
       <div class="video-text">
         <p>Ⅳ話前編</p>
         <div class="password-block">
-          <span class="password">ここにパスワード</span>
+          <span class="password">GYD_2_4_1</span>
           <button class="copy-btn" onclick="copyPassword('GYD_2_4_1')">コピー</button>
         </div>
       </div>
@@ -135,7 +135,7 @@
       <div class="video-text">
         <p>Ⅳ話後編</p>
         <div class="password-block">
-          <span class="password">ここにパスワード</span>
+          <span class="password">GYD_2_4_2</span>
           <button class="copy-btn" onclick="copyPassword('GYD_2_4_2')">コピー</button>
         </div>
       </div>
@@ -149,7 +149,7 @@
       <div class="video-text">
         <p>Ⅴ話</p>
         <div class="password-block">
-          <span class="password">ここにパスワード</span>
+          <span class="password">GYD_2_5</span>
           <button class="copy-btn" onclick="copyPassword('GYD_2_5')">コピー</button>
         </div>
       </div>
@@ -163,7 +163,7 @@
       <div class="video-text">
         <p>Ⅵ話</p>
         <div class="password-block">
-          <span class="password">ここにパスワード</span>
+          <span class="password">GYD_2_6</span>
           <button class="copy-btn" onclick="copyPassword('GYD_2_6')">コピー</button>
         </div>
       </div>
@@ -177,7 +177,7 @@
       <div class="video-text">
         <p>Ⅶ話前予告</p>
         <div class="password-block">
-          <span class="password">ここにパスワード</span>
+          <span class="password">GYD_2_7_0</span>
           <button class="copy-btn" onclick="copyPassword('GYD_2_7_0')">コピー</button>
         </div>
       </div>
@@ -191,7 +191,7 @@
       <div class="video-text">
         <p>Ⅶ話</p>
         <div class="password-block">
-          <span class="password">ここにパスワード</span>
+          <span class="password">GYD_2_7</span>
           <button class="copy-btn" onclick="copyPassword('GYD_2_7')">コピー</button>
         </div>
       </div>
@@ -205,7 +205,7 @@
       <div class="video-text">
         <p>Ⅷ話</p>
         <div class="password-block">
-          <span class="password">ここにパスワード</span>
+          <span class="password">GYD_2_8</span>
           <button class="copy-btn" onclick="copyPassword('GYD_2_8')">コピー</button>
         </div>
       </div>
@@ -219,7 +219,7 @@
       <div class="video-text">
         <p>Ⅸ話</p>
         <div class="password-block">
-          <span class="password">ここにパスワード</span>
+          <span class="password">GYD_2_9</span>
           <button class="copy-btn" onclick="copyPassword('GYD_2_9')">コピー</button>
         </div>
       </div>
@@ -233,7 +233,7 @@
       <div class="video-text">
         <p>旧二章エンディング</p>
         <div class="password-block">
-          <span class="password">ここにパスワード</span>
+          <span class="password">GYD_2_end</span>
           <button class="copy-btn" onclick="copyPassword('GYD_2_end')">コピー</button>
         </div>
       </div>
